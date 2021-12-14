@@ -1,3 +1,3 @@
-hiron0413です。Scratcherでもあります。
+hiron0413です。
 
-今はサイト制作のためにHTML,CSS,JSを練習中です。
+今はサイト制作のためにHTML,CSS,JSを、アプリ開発のためにKotlinを練習中です。
