@@ -1,3 +1,10 @@
-hiron0413です。
+### About Me
 
-今はサイト制作のためにHTML,CSS,JSを、アプリ開発のためにKotlinを練習中です。
+創作が好きな高校生。
+
+Scratchではhiron0413として活動。
+
+
+### Skills
+
+Javascript / C++ / Python / C#
