@@ -1,10 +1,10 @@
 ### About Me
 
-創作が好きな高校生。
+ゲームと数学と創作。
 
-Scratchではhiron0413として活動。
+最近、Unityを使い始めた。
 
 
 ### Skills
 
-Javascript / C++ / Python / C#
+Javascript  /  C++  /  Python  /  C#  /  Kotlin  /  HTML / CSS
